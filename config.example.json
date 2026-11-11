@@ -1,0 +1,8 @@
+{
+  "python": "D:\\comfy\\moss\\venv\\Scripts\\python.exe",
+  "hf_home": "D:\\comfy\\moss\\hf",
+  "model": "OpenMOSS-Team/MOSS-SoundEffect-v2.0",
+  "device": "cuda",
+  "dtype": "bfloat16",
+  "env": {}
+}
